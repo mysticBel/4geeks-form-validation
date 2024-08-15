@@ -1,0 +1,12 @@
+.container-card {
+  margin-top: 3rem;
+}
+
+.container-select {
+  background-color: rgb(126, 126, 126);
+  border-radius: 5px;
+  padding: 1rem 1rem;
+}
+.container-select i {
+  color: #ffffff;
+}
